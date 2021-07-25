@@ -1,6 +1,6 @@
-# Mouse-Controler
+# Mouse-Controller
 Control mouse with keyboard using Arrow keys "C++"
-This is a C++ Program to Run mouse using your keyboard's arrow keys
+This is a C++ Program to Run mouse using your keyboard's arrow keys -WINDOWS ONLY-
 
 //TODO:
 I haven't assigned Mouse click button to keyboard;
